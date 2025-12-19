@@ -1,0 +1,363 @@
+Unnamed: 0,AREA,Código HAC,Denominación,Tipo equipo,VOSOA,Unnamed: 6,RUTI,Unnamed: 8,COR,Unnamed: 10,ACEITE,Unnamed: 12,VIB,Unnamed: 14,TERMO,Unnamed: 16,DES,Unnamed: 18,DUREZA,Unnamed: 20,EMD,Unnamed: 22,VT / LP,Unnamed: 24,PM,Unnamed: 26,UT,Unnamed: 28,ESPESOR,Unnamed: 30,Comentarios,Fecha intervención y alcance,_computed_score,_computed_matches
+,200,CS.211-TP1,ALIMENTADOR DE CELDAS TODO-UNO,TP,,"HECHO: El transportador está rozando con la caída del alimentador vibratorio, y lo está fisurando. Hay que hacer una reparación urgente y valorar si necesita una reparación de más envergadura. Se han reparado las fisuras más importantes. Se está evaluando una reparación mayor",,"Hay que hacer un overhaul del transportador en 2025. Hay muchas placas en mal estado
+- HECHO: Hay 3 placas rotas y 3 dobladas. Se piden 6 uds, si las dobladas no tienen reparación se sustituyen, si tienen reparación se reparan y se quedan 3 uds en almacén
+- Hacer seguimiento al desgaste del piñón corona. Hay un diente del piñón con mucho desgaste
+- HECHO: Cambiar los tacos del acoplamiento entre reductor y accionamiento. Tienen mucho desgaste.",,,,,,,,,,,,,,,,,,,,,,,"Principal problema: Mayoria de placas en mal estado, dobladas, no se conocen pérdidas de espesor ni perforaciones, valorar enderezado y reutilización. Ver estado cadena y sectores. Planificar Revisión Ruedas, Sectores y Cadena.
+
+Ver interferencias: 211-DP1 + 211-TS1 y 211-TP1. (TP1 finales 24) (TS1 y DP1 en Paro HR 2025)",,20.0,PERFORACIONES:20.0
+,200,CS.211-DP1,DOSIFICADOR DE PLACAS DE ARCILLA,DP,,,,"- Pendiente sustitución cadena. 
+- Sustituir tacos de acoplamiento del accionamiento del transportador 211-DP1. Son los que van del reductor al transportador (FR-13), código 30207381
+- HECHO: Hay que cambiar tres placas de blindaje Lado MT por desgaste (7,15 y 16)
+- HECHO: Sustituir placas blindaje caída a transportador según aviso 12257455
+- HECHO: Revisar todos los segger del transportador",,,,,,,,,,Reemplazar cadena. Casquillos en alarma de reemplazo (43mm). Algunos en mal estado. ,,,,,,,,,,,,,"Planificada sustitución cadena en 2025, Pendiente sustitución tacos acoplamiento. ",,0.0,
+,200,CS.211-DP2,DOSIFICADOR DE PLACAS DE MARGA,DP,,"HECHO: Hay que realizar los siguientes trabajos en el transportador 211-DP2:
+- Sustitución completa de la cadena de doble ramal
+- Sustitución de las ruedas tensoras y motrices del alimentador de celdas
+- Sustitución completa de la CN 100 y el cuadradillo de 40x40 de la parte inferior del transportador (a ambos lados)
+- Comprobar nivelación y paralelismo entre el eje tensor y motriz
+- Sustitución de rodillos superiores guía y patines de deslizamiento placas.",,"- Hay que cambiar tres placas de blindaje Lado PL por desgaste (7,8 y 9)
+- Sustituir tacos de acoplamiento del accionamiento del transportador 211-DP2. Son los que van del reductor al transportador (FR-13), código 30207381
+- HECHO: Sustituir placas blindaje caída a transportador según aviso 12257455
+- HECHO: Revisar todos los segger del transportador- Cambiar los tacos del acoplamiento entre reductor y accionamiento. Tienen mucho desgaste
+- Hacer seguimiento al desgaste del piñon-corona. Los dientes del piñón tienen mucho desgaste
+- Cambiar cadena y sectores rascador 211-RD2
+- HECHO: Sustituir placas blindaje caída a transportador según aviso 12257453",,,,,,,,,,"HECHO:Reemplazar cadena. Aunque los casquillos tienen poco desgaste (en torno a 48-49mm), este tiene forma cónica, y ya sea por este desgaste o por la desalineación entre sectores motrices y tensores, estamos teniendo averías casi semanales en el 211-DP2. O se parte un eslabón, o se salen segger. Valorar el reemplazo de esta cadena incluso antes que la del 211-DP1",,,,,,,,,,,,,Pendiente sustitución tacos acoplamiento y 3 placas.,Parada 23SDK1S1 (agosto),0.0,
+,200,CS.211-TS1,TRITURADORA DE MARTILLOS,TS,,,,,,,,,,,,,,"- Hay que recargar el yunque, los discos y los nervios lado montaña y lado playa",,,,,,,,,,,,,"Martillos con desgaste medio, Martillos Lado Playa con mayor desgaste, ambas filas volteables. Revisar última inspección Mayo/24 y definir alcance trabajos Parada 2025.",,0.0,
+,200,CS.251-EC1,ELEVADOR DE CANGILONES TOMAMUESTRAS,EC,,Perforación cajón elevador cota 0. (Aviso 24/05/24),,HECHO: Hay que cambiar un cangilón del elevador 251-EC1. Está en muy mal estado,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,200,CS.291-BT3,CINTA ASCENDENTE A PREHOMO,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Desgaste laterales banda, desgaste en recubrimiento tambores y desgaste en tambor contrapeso. Pendiente reportar aviso para cambio de banda.",,0.0,
+,300,CS.311-BT1,CINTA EVACUACION DE PREHOMO,,,Perforaciones bajante.,,,,,,,,,,,,,,,,,,,,,,,,,,,21.0,PERFORACIONES:20.0;BAJA:1.0
+,300,CS.311-BT2,CINTA ALIMENTACIÓN TOLVAS DE CRUDO,BT,,"- Fuga de aceite por el eje de salida del reductor. Cambiar retenes y revisar rodamientos
+- Reparar guarderas cola banda.",,,,,,,,Revisar rodamientos motor. Peakvue alto,,,,,,,,,,,,,,,,,,,0.0,
+,300,CS.311-RC1,CADENA EVACUACION PUENTE RASCADOR,RC,,"- HECHO: La polea de la contrapesa del rastrillo esta muy gastada. De las dos de abajo, es la del lado opuesto a la tolva octogonal.
+- HECHO: Se han cambiado 32m de cadena al estar muy desgastada y partirse en dos ocasiones eslabones de la cadena (lado Montón)",,"- Se hace aviso para cambiar la cadena del lado montón por la cadena del lado opuesto al montón. Hacerlo a finales de año
+- HECHO: Hay que cambiar algunos eslabones de la cadena que presentan elevado desgaste. Hay que darle un repaso a la cadena y a los patines de desgaste. Hay varias uniones reviradas
+- HECHO: Hay que cambiar 6m de viga guía de las contrapesas del rastrillo. Tambor tensor fisurado.",,,,,,,,,,"HECHO: Hay que cambiar los sectores motrices por desgaste
+HECHO: Se cambian los sectores motrices de la cadena
+HECHO: Cadena Rascador cerca del límite de reemplazo. - Reemplazar en paro 22SDK1B1:
+- Cadena
+- Sectores motrices
+- Guías superiores e inferiores 
+- Enderezar palas dobladas",,,,,,,,,,,,,,,0.0,
+,300,CS.331-TP1,ALIMENTADOR DE PLACAS PARA MEZCLA,TP,,"- El transportador tiene varias ruedas gripadas.
+- HECHO:  Además, tiene las guarderas con varias perforaciones y muy desgastadas. Y la chapa donde van las agujas tiene también varias perforaciones. Hay que realizar estas reparaciones, ya que cae mucho material a las ruedas, y se van a seguir gripando.
+- HECHO. Eje partido en el transportador de mezcla. Lado CS",,,,,,,,,,,,,,,,,,,,,,,,,Revisar perforaciones en caída de material y ruedas gripadas. Reportar Aviso.,,20.0,PERFORACIONES:20.0
+,300,CS.361-AP1,ACCIONAMIENTO PRINCIPAL MOLINO CRUDO.,AP,,"HACER SEGUIMIENTO: El cojinete del motor, LOA, resuda aceite por la tapa. No se está filtrando a las escobillas, por lo que el problema está en el sellado de las tapas. Hay que sacar las medias lunas y sellar bien de nuevo las tapas",,"- Reportado Aviso para SEM47 Limpieza exterior cojinetes y revisión Nivel Aceite Cojinetes Motor (ENGR)
+- Insp. Interior Reductor 25/OCT/24 - Formación Espuma y Estado Lubricación - Reportar aviso para Cambio Aceite y Flushing Interior Cárter.",,,,,,,,,,,,,,,,,,,,,,,Pedir Limpieza en Motor y Reductor. ,,2.0,MEDIA:2.0
+,300,CS.361-MR1,MOLIENDA DE CRUDO,MR,,"- El engrase de un rodamiento del balancín del R1 está obstruido. Hay que abrir los discos axiales y comprobar. Estos discos se instalaron nuevo en 2023
+HECHO: Se revisa y se rasquetea la teja. Episodios de alta tª en el cojinete lado acoplam. del motor principal. Valorar la revisión de la teja
+HECHO:El Rodillo 1, recién instalado, está perdiendo aceite por la junta G. Hay que reemplazarlo.
+HECHO: Se ha roto la unión del cajón del rodillo 1 con el soporte. Se ha puesto un soporte provisional. También se ha partido la abrazadera de la muñequilla. Se va a cambiar el cajón y se va a aprovechar para reemplazar el rodillo 1, que es el siguiente que toca reemplazar por desgaste de la camisa",,"- Se ha cambiado el rodamiento del lado libre. Falta el del lado fijoHolgura de 2,57mm en el rodamiento del lado libre del balancín del rodillo 4. Hay que girar el rodamiento, o reemplazarlo 
+HECHO:  Holgura de 2mm en el rodamiento del lado fijo del balancín del rodillo 1. En el lado libre la holgura es de 0,65mm. Hay que preveer el reemplazo de los discos axiales y de los dos rodamientos
+HECHO: Los balancines de los rodillos 3 y 4 están obstruidos. Los platos estarán desgastados y no circula la grasa. Hay que desmontarlos y revisarlos",,,,"- HACER SEGUIMIENTO (ACEITE REEMPLAZADO):  El aceite del reductor presenta mucha espuma. Se ha hecho un análisis del aditivo anti-espumante. Ha salido desfavorable. Hay que analizar bien la causa raíz y establecer un plan de acción urgente. Además, hay que valorar la realización de un flushing en el reductor
+- HECHO: Se cambia el aceite. El aceite del reductor presenta un color bastante oscuro. En los análisis de aceites se ve un incremento del valor de la acidez. ",,En el informe de DALOG se observa un ligero incremento de las bandas laterales a la frecuencia de engrane del tren de entrada. No parece estar relacionado con cambio en la molienda. Hay que inspeccionar el tren de entrada,,,,"- Hay que sustituir por desgaste la camisa del rodillo 4. Aviso hecho
+- Se va a sustituir el DAM RING en Marzo 2024 con el proyecto de recirculación del Crudo
+- HECHO (Dic 2023): Hay que sustituir por desgaste la camisa del rodillo 3 del Molino
+- HECHO: Reemplazar R2 por desgaste en Dic. 2022
+- HECHO: Recargue mesa MC 
+- HECHO: Hay que reemplazar R1 por desgaste",,,,HECHO: Problemas de desgaste en las escobillas. Todo apunta a que es causado por los anillos del rotor. Hay que mecanizarlos,,,,,,,,,"Ver engrase Rodamiento balancines: Verificar obstrucción.
+
+PENDIENTE: Ver Mediciones Desgaste Pista ",,3.0,ALTA:3.0
+,300,CS.361-SP1,MOLIENDA DE CRUDO,SP,,"HECHO: En la rutina de lubricación se ha comprobado que el engrasador que va al rodamiento de abajo estaba obstruido, sin embargo, la válvula de seguridad, tarada a 200bar, no ha saltado. Hay que desmontar la bomba y comprobar el inyector. O reemplazar la bomba. Es probable que tenga holgura y no meta bien la presión",,"HECHO: 
+- Reemplazar las palas estáticas y las dinámicas por desgaste. Además, hay que reparar un paño de unos 3m de largo de densit, y una placa de blindaje
+- Reparación de una pala estática, del cable de seguridad y dl cuadrado de seguridad de las palas dinámicas
+- Reparación de la base donde apoyan las palas estáticas. Tiene mucho desgaste y varias perforaciones
+- Reparación del techo del separador. También tiene mucho desgaste y perforaciones
+- Reparación del llantón de la junta dinámica. Tiene más de 20mm de desgaste en toda la circunferencia
+- Reemplazo de las palas estáticas, que presentan elevado desgaste. Hacer en parada 22SDK1S3 (HECHO)",,,,,,"Se comprueba la holgura del rodamiento LA del motor. Tiene casi 1mm. Se revisa espectro de holgura y peakvue, presentando valores admisibles y estables desde hace meses. Se va a realizar seguimiento exhaustivo, pero, por ahora, no se va a realizar aviso para reemplazo",,,,,,,,,,,,,,,,,"Medir Vibraciones y revisar configuración mediciones. Revisar Holguras en Espectro.
+
+El motor presenta espectro de holgura. Se ha comprobado la holgura con palanca. Hacer seguimiento",,23.0,PERFORACIONES:20.0;ALTA:3.0
+,300,CS.361-UH1 ,SISTEMA HIDRÁULICO RODILLOS MOLINO CRUDO ,UH,,"- Insp. Visual (23/OCT/24) en Fosos Arquetas Sistema Hidráulico Crudo por reposiciones recurrentes  durante OCT/24 (+330L) sin fugas relevantes en la parte exterior del circuito. Se detecta el foso totalmente inundado. Se reporta aviso para destapar arquetas, vaciar foso, revisar sistema hidráulico y detectar y corregir fugas.
+- Insp. Visual en Cilindros Rodillos, se detectan fugas leves en Cilindros 1-2.",,"- Ejecutar rutina de revisión acumuladores y evaluar acumuladores comunicados. Realizada Insp. Termográfica. Acumuladores OK, Fugas por Cilindro Nº3. Prevista sustitución 14/NOV/24.",,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,300,CS.361-VE1,VENTILADOR EVACUACION GASES MOLINO,VE,,"HECHO: Rodamiento reemplazado. Aumento de la Tª y del Peakvue en rodamiento C ventilador. Se revisa el acoplamiento, se han cambiado todos los tacos, y se ha cambiado el aceite (se ha pasado de un ARIES 68  a un SUPERTAURO 100). El peakvue se mantiene alto. Se revisa el rodamiento. Tiene mucha grasa sucia- Se limpia lo que se puede. Mejora el peakvue, pero sigue alto. HACER SEGUIMIENTO Y PREVEER REEMPLAZO
+HACER SEGUIMIENTO: El aceite del cojinete se ha metido dentro del compartimento del motor, habiendo llegado hasta los ventimotores, aspirado por ellos. Se limpia.",,"HECHO: Rodete recargado (Insp. Interior mensual Ventilador Equipo Rutinas Mecánicas detecta durante AGO/24 desgaste irregular en lateral rodete, Insp.SEP/24 no se puede realizar por interferencias proceso.) Se recarga rodete el V/25/OCT/24, se miden vibraciones, no se requiere equilibrado.
+Desgaste en parte inferior oído. Parechar durante este año, y prever reemplazo para 2025.
+HECHO: Escudo reemplazado. El escudo del ventilador presenta perforaciones, y los álabes tienen también desgaste. Se va a planificar en un paro del MC el recargue de esas perforaciones del escudo. Aun así, para diciembre hay que planificar para la el montaje de un escudo nuevo y el recargue de los álabes. ",,,,,,HECHO: Rodamiento reemplazado. Aumento del peakvue en el rodamiento C del ventilador. MP= 10G's,,,,,,,,Las bandas laterales del espectro de frecuencia en las corrientes absorbidas por el motor están en nivel de alarma. Realizar seguimiento.,,,,,,,,,"Desgaste en parte inferior oído. Parechar durante este año, y prever reemplazo para 2025.",,20.0,PERFORACIONES:20.0
+,300,CS.361-VR1,RUEDA DE ESCLUSAS ALIMENTACIÓN MOLINO,VR,,,,,,,,Se cambian retenes en Parada marzo 2021,,,,,,,,,,,,,,,,,,,,,0.0,
+,300,CS.391-EC1,ELEVADOR TRANSPORTE AEROS CRUDO - SILOS.,EC,,"Han aumentado las vibraciones en el motor, apreciándose una gran modulación producida por la velocidad del eje de salida:
+- Hay que cambiar el retén del eje de salida
+- Prever repuesto de los rodamientos del eje de salida
+- Revisar el acoplamiento del reductor con el tambor motriz (es un JAURE MT-138)",,"- Reportado Aviso SEM47: Insp. Visual Banda y Mediciones dureza, Dureza dentro de límites, sin variaciones en valores histórico.
+- Hay que prever el reemplazo de los sectores del tambor motriz para 2023. Aviso hecho
+- La mayoría de cangilones tienen la tornillería floja. Hay que reapretarlos. Faltan tornillos por cambiar aún
+- HECHO: Reemplazo rodamiento tambor tensor (holgura lado AA: 1mm. Lado CS: 0,2mm)
+- HECHO: Hay que cambiar los rodamientos del tambor tensor (holgura superior a 1mm)",,,,,,,,,,,,,,,,,,,,"HACER SEGUIMIENTO: Se observa una indicación a una distancia de 1870 desde el extremo libre. Dicha indicación es confirmada desde el extremo acoplado a una distancia de 420 mm. Se retira la tapa del rodamiento, pero no es posible ver la superficie del eje, ya que en esta zona se encuentra el sello entre la carcasa, el eje y el rodamiento. Aparentemente la indicación detectada no es típica de una grieta, por lo que se piensa que puede ser algún tipo de reparación realizada en la zona del rodamiento.",,,"UT: Revisar Indicación en Eje accto a 1870 desde Lado Libre.
+
+MECA: Pendiente sustitución sectores, cambio gomas Tambor Motriz y sustitución tornillería previa.
+
+Motor y reductor reemplazados en parada 21SDK1B2",KSD Junio 2021 / Marzo 2022,3.0,ALTA:3.0
+,400,CS.421-FT1,FILTRO DE MANGAS HORNO,FT,,,,"PENDIENTE:
+- Reparación compensador salida (OT: 94238102)
+
+HECHO:
+- Sust. Compensador Entrada Parada FEB/24 + Reparación exterior parcial en Compensador Salida.  
+- Calderines y sistema disparo mangas montado nuevo en Parada FEB/24.
+
+",,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,400,CS.421-VE1,VENTILADOR DE TIRO FILTRO CRUDO-HORNO,VE,,"Hay desalineación entre el motor y el ventilador (motor 0,75mm más elevado. El límite es 0,49mm). Se ha comprobado el rodamiento del ventilador y está OK. Hay que alinearlos. En vibraciones los valores son bajos. Los tacos están nuevos",,,,,,,,- Peakvue alto en punto A motor 421-VE1 (BPFO). Se echa grasa y mejora. Hay que hacer seguimiento y preveer reemplazo,,,,,,,,Se reemplaza el motor en diciembre de 2020 por uno de ABB de más potencia (1300kW),,,,,,,,,Medir Vibraciones: Revisar M2-BPFO y Desalineación,,0.0,
+,400,CS.431-EC1,ELEVADOR DE CANGILONES DE HARINA,EC,,"- HECHO: Se cambian ambos rodamientos. Estaba mal el del lado MT. Se ha visto polvo bajo el rodamiento lado Playa. En un paro imprevisto hay que revisar el rodamiento por si está dañado. Si no, en la parada de diciembre
+- Ruido extraño en reductor. Parece ser el anti-retorno. Se revisa en paro imprevisto del día 07/05/2021. Se desmontan las tapas, se revisa el reductor, el anti-retorno, se comprueban holguras, se le da marcha en vacío, y no se ve nada raro. Hay que hacerle seguimiento",,"- Están saliendo pompas en la banda del elevador. Hay que investigar la causa raíz y preparar reemplazo
+- Hay que cambiar los tacos del acoplamiento entre el motor y el reductor. Se ven duros y cuarteados
+HECHO: Desmontar cajeras rodamientos tambor tensor y recargar. Parada 22SDK1B1. 
+Fisura perpendicular a dirección transporte encontrada. La reparación va bien. Se hace seguimiento",,,,,,,,,,,,,,,,,,,,,,,"PDT Reportar Aviso para Cambio Banda.
+
+Revisar estado banda, valorar urgencia, revisar apriete tornillos cangilones, posible causa raiz pompas en cara interior banda?
+
+Seguimiento nuevos soportes tambor tensor",,0.0,
+,400,CS.431-GU1,SINFIN ALIMENTACIÓN HARINA RAMAL CS,GU,,,,"HECHO: 
+- Cambio Acoplamiento JAURE (Tipo MT-132) Reductor-Sinfin por desgaste elevado. Parado FEB-MAR/24",,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,400,CS.431-GU2,SINFIN ALIMENTACIÓN HARINA RAMAL AA,GU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,400,CS.441-VE1,EXHAUSTOR LADO CARBONERAS,VE,,"- Desgaste excesivo en álabes y disco del rodete. Recargado en Paro HR FEB-MAR/24 - PENDIENTE Reemplazo para 2025
+HECHO: Hay que recargar la unión de los álabes con el disco, por la parte interior
+HECHO: Hay que recargar las soldaduras de unión de las pletinas de refuerzo de los álabes del rodete",,"- 11/NOV/24 - Calentamiento Rodamiento Motor LA - Exhaustor lado CS: Cantidades Engrase y tipo grasa correcta, apertura cazoletas ejecutada en AGO/24 en engrase anterior. Ajustar Frecuencias Engrase y Modificar Tapa Cazoletas / Protecciones para apertura + Lubricación UT Rodamientos en próxima ejecución. ",,,,,,HACER SEGUIMIENTO: Aumento de peakvue en punto B,,,,,,,,,,,,,,,,,Revisar compensadores --> Decalar 20 rpm velocidades,,0.0,
+,400,CS.441-VE2,EXHAUSTOR LADO AGUAMARGA,VE,,HECHO: Desgaste excesivo en álabes y disco del rodete. Reemplazado en Paro HR FEB-MAR/24 - 24SDK1B1,,,,,,,,,,,,,,,,,,,,,,,,,"PENDIENTE: Reportar aviso para cambio Rodete.
+
+Revisar compensadores --> Decalar 20 rpm velocidades. ",,0.0,
+,400,CS.461-AP1,ACCTO.PRINCIPAL NRO.1 LADO CS.,AP,,,,,,,,"El hierro está en aumento. Hacer seguimiento al análisis de vibraciones. A ver si hay algún roddamiento o piñón en deterioro. Ver el estado del aceite, filtros, etc",,"HECHO: El rodamiento del lado libre del piñón lado CS del horno esta mal. Hay que cambiarlo. Tiene mucha holgura y desportillados en la pista externa. Se ha medido con UT y vibraciones, comparando con el rodamiento gemelo del lado AA.
+En UT hay 35-40dB en lado CS y 10dB en lado AA (muchísima diferencia de energía de impacto a nivel de UT)
+En G's, la forma de onda del lado CS indica claramente impactos fuera de lo admisible. ",,,,,,,,,,,,,,,,,"Se cambia el motor en el paro de marzo 2021
+
+Revisar Tendencia %PPM Hierro en Análisis Aceite.",,0.0,
+,400,CS.461-AP2,ACCTO.PRINCIPAL NRO.2 LADO AA.,AP,,,,,,,,,,,,,,Revisar desgaste acoplamiento reductor-piñón,,,,,,,,,,,,,Se cambian los tacos del acoplamiento en PIH de septiembre 2021,,0.0,
+,400,CS.461-HR1,HORNO ROTATIVO DE SATELITES,HR,,"- PENDIENTE Paro HR 2025: Inspección NDT en el aro 3 en la parada del horno. Virola bajo Aro Ha sufrido fuertes episodios de Tª
+- Movimiento relativo elevado en aro 1. Valorar calzo en 2024
+- HECHO: Se está desconchando la seta del empujador 2. Hay que mecanizarla en la parada de 2023
+- HECHO: Se está desconchando el rodillo del apoyo 2 AA. Hay que mecanizarlo. Hacer en 22SDK1S3
+- HECHO (Comprobar Ovalidad): Ovalidad muy alta en aro 4, provocando fisuras en los tacos. Necesario calzar el aro
+- HECHO: Fisuras en los tacos del aro 4. Necesario reparar.",,"- HECHO: Instalado sistema de grafitos en el apoyo 3 lado AA para mejorar la lubricación entre aro y rodillo. Paro HR FEB-MAR/24
+- Deformación radial chapa horno bajo corona y entre corona aro 2. 
+HECHO: Se ha sacado tras varios paros por Tª. Hay que sacar el cojinete 8 (apoyo 2 AA-PL). Hemos tenido varios episodios de Tª, además de alto contenido en Al y Fe, indicativo de arrastre
+HECHO: Rodillo apoyo 1 AA, fisura en roldana. Reemplazar rodillo",,"Run out radial
+Diente corona",,"- Se hace aviso para sacar el cojinete 11 (apoyo 3 AA-MT) y revisar la teja (24SDK1B1). Valorar antes un cambio de aceite de 680 a 1000. En las muestras de los últimos años sale con Al y Fe elevado. Se cambia el aceite, y al poco vuelve a salir elevado. Se va a sacar una nueva muestra adicional antes del paro de agosto.
+HECHO: Se cambia en la parada el aceite a los cojinetes siguientes: Estación 1 CS-PL. Estación 2 AA-PL y CS-MT. Estación 3 AA-MT. Ver detalle en pestaña análisis aceites
+HECHO: Hay que cambiar el aceite del cojinete Apoyo 2 AA (cojinete 8). Después del episodio de Alta Temperatura, el aceite está en malas condiciones
+HACER SEGUIMIENTO: En los últimos análisis  de los cojinetes del apoyo 3 lado AA ha salido alto el Aluminio. Cambiar el aceite en la parada 22SDK1S3 e investigar el porqué",,,,,,,,,,,,"- HECHO: Hay que reparar fisuras en los satélites. Las más urgentes son las dos siguientes:
+fisura tipo 1 de 700mm en la cuna entre satélites 9-10. Dos fisura tipo 1. Una de 300m y otra de 850mm en la cuna de los satélites 2-3",,,,"Se han detectado indicios de fisuras en la transición, lado PL, del aro 2. Hay que realizar una inspección a fondo de esta transición",,,"Enviar Muestra Aceite, Revisar tendencias Aluminio.
++
+Destapar cajas y revisar holguras axiales.
+",,3.0,ALTA:3.0
+,400,CS.461-RH1-2-3-4,RODILLOS HORNO ARO 1-2-3-4,HR,,"- Insp. Visual en marcha el 23/OCT, se detecta acumulación material y aceite en foso Aro 3, por fugas Cojinete Nº11 Aro 3 Lado AA-MT se reporta Aviso: 13066472 para Limpieza Fosos 25SDK1B1.",,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,400,CS.481-VT1,VENTILADOR 1 QUEMADOR DEL HORNO,VE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,400,CS.481-VT2,VENTILADOR 2 QUEMADOR DEL HORNO,VE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,400,CS.481-VT3,VENTILADOR 3 QUEMADOR DEL HORNO,VE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,400,CS.491-TC1,ELEVADOR DE CANGILONES-I EVAC. HORNO,TC,,"HACER SEGUIMIENTO: Se le ha dado la vuelta a la tapa y se ha graneteado para mejorar la interferencia. Hay que revisar el rodamiento del lado libre del elevador. Al quitar la tapa para hacer UT, se han visto rebabas de la misma, producidas por roce con el rodamiento, posiblemente por estar flojo
+HECHO: Pérdida de aceite reductor ejes entrada y salida. ",,"Raíles con desgaste irregular. Hay una diferencia de 9mm entre un lado y otro, produciendo un desgaste cónico en los rodillos de la cadena
+(49) Cangilones con holgura en tornillos
+Guarderas en mal estado/faltan
+Sectores motrices con elevado desgaste
+La mayoría de casquillos están rotos
+Los rodamientos del tambor tensor están con 0,7mm de holgura. Hay que cambiarlos",,,,,,,,,,"- Desgaste sectores motrices y tensores (10-15mm)
+-(86) Casquillos y cadena desgastados
+guías desgastadas tambor tensor
+-Ruedas desgastadas ",,,,,,Cangilones desgastados,,,,,,"guías desgastadas tambor tensor
+cangilones desgastados 
+","(Se desmontaria con CAPEX Enfriador)
+
+Previsto cambio de cadena, valorar estado ruedas, railes, cangilones, sectores motrices y reenvío.
+
+",,3.0,ALTA:3.0
+,400,CS.491-TC2,ELEVADOR CANGILONES N.2 EVACUACION HORNO,TC,,"HECHO:
+- Reparación de varias fisuras en las caídas de las compuertas 491-CR2 y 491-CR4
+",,"- Pérdida de aceite en el reductor. Los engrasadores están al tanto y van controlando el nivel, pero hay que planificar el cambio de retenes.
+- HECHO: Hay que repaar la compuerta de aguas 491-CR2 por desgaste en los usillos y los casquillos y rodamientos de bronce
+- HACER SEGUIMIENTO: Varias ruedas con los rodamientos mal. Se va a meter grasa más a menudo. ",,,,,,"HECHO. Se cambian los tacos. Las vibraciones en el lado acoplamiento del motor han aumenado bastante. Además, el 2x también ha aumentado, indicando desalineación. ",,,,,,,,,,,,,,,,,SE HA HECHO PRUEBA CON GRASA NGLI 1 Y 2,,0.0,
+,400,CS.491-TP1,TRANSPORTADOR PLACAS ELEVADORES SILO Nº2,TP,,,,,,,,,,,,,,,,,,,,,,,,,,,Revisar Desgaste Sectores Dentados Ruedas Motrices.,,0.0,
+,400,CS.491-TS1,TRITURADORA DE CLINKER,TS,,"- Se realiza Medición de desgaste Parcial el 21/OCT durante PIH por atranque de ciclón. Desgaste máximo 18-23mm vs 25mm Alarma pedido 50mm Alarma reemplazo, en martillos con insertos cerámicos.
+- Se realiza Sustitución de correas de accionamiento, correas de fabricantes diferentes. Sustituir nuevamente en Paro HR 25SDK1B1.",,,,,,,,,,,,,,,,,,,,,,,,,Revisar Estado Desgaste Martillos en Paro corto imprevisto Horno.,,0.0,
+,400,CS.4A1-EC1,ELEVADOR DE CANGILONES BYPASS.,EC,,,,"HECHO: El labio de descarga está gastado, retornando material por encima de los cangilones. Reemplazarlo",,,,,,,,,,HACER SEGUIMIENTO: Se ha acortado la cadena. A lo largo de este año los valores de desgaste muy probablemente lleguen al límite de pedido. Controlar la evolución. Todo indica que habrá que cambiar la cadena en la parada de 2024,,,,,,,,,,,,,,,0.0,
+,400,CS.4A1-PE1,ELECTROFILTRO BYPASS,PE,,,,"Revisar Diego Carvajal Estado actual Filtro!
+Varias intervenciones a realizar derivadas del informe de FLSMITH de la parada 22SDK1B1, y de la revisión realizada en la parada 22SDK1S3 a destacar:
+- Los mecanismos de los golpeos de los electrodos parte superior 4A1-PE1.MA, 4A1-PE1.ML y 4A1-PE1.MI tienen el soporte del mecanismo roto. Se quedan bloqueados a falta de reparar
+- 4 barras de golpeo caídas en el campo 2. Hay que soportar para evitar balanceo y se produzca un corto
+- En el campo 2 también hay una placa partida, un martillo en mal estado y 3 yunques partidos. Reparar 
+- Sustitución de las puertas de los fondos de las tolvas del filtro (por entrada de aire falso)
+- Sustitución de los cables de A/T. Se encuentran en mal estado",,,,,,,,,,,,,,,,,,,,,,,Revisar con Diego Carvajal Estado actual del Filtro.,,3.0,ALTA:3.0
+,400,CS.4A1-VE1,VENTILADOR EXHAUSTOR BYPASS,VE,,,,Pendiente Sustituir Oido (OT: 94323405),,,,,,Comprobar el espectro y forma de onda de vibraciones. Parece holgura estructural,,,,,,,,,,,,,,,,,Hacer seguimiento a la corrosión de la voluta,,0.0,
+,400,CS.4A1-VT5,VENTILADOR AIRE FRÍO BY-PASS,VE,,,,Pendiente Sustituir Oido (OT: 94323002),,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,400,CS.4D1-EC1,ELEVADOR DE CANGILONES SILO POLVOS.,EC,,,,Pendiente Reparación Brazo de reacción. La holgura es demasiado grande ya. ,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,500,CS.511-BT1,CINTA ASCENDENTE A TOLVAS.,BT,,"- Faltan varios rodillos por cambiar aún. También hay que ajustar guarderas y reparar estaciones autoalineantes gripadas
+- Sustituir rascador tambor motriz de retorno y colocar faldillas en la estacion motriz
+- HECHO: La banda está muy agrietada y cuarteada. Todo pinta a que se debe por fatiga por trabajar a altas Tªs. Hay que cambiarla
+- HECHO: Cambiar tambor de inflexión ",,HECHO: Hay que reemplazar el tambor de inflexión. Tiene mucho desgaste,,,,,,,,,,,,,,,,,,,,,,,Ver la posibilidad de cambiar tipo de acoplamiento si sigue dando problemas,,4.0,BAJA:1.0;ALTA:3.0
+,500,CS.511-BT2,CINTA REVERSIBLE TOLVAS.,BT,,"HECHO: Hay que reparar el empalme (poner grapas). Se planifica para semana 16
+HECHO: Se han cambiado rodillos desgastados. Estaba parando por desvío 
+HECHO: El empalme de la cinta nueva está dañado por rozar con algún rodillo gripado. Hay que repararlo
+HECHO: Hay que cambiar la cinta. Empalme en mal estado, corte longitudinal a todo lo largo de la cinta. En general, la cinta está en muy mal estado",,"- Hay que ajustar guarderas
+- HECHO: Se ha pedido una banda de repuesto. El empalme está en mal estado. En cualquier momento puede romperse. 
+- HECHO: Hay que volver a reparar el empalme. Debe haber tenido algún enganchón. Ha perdido un trozo por el lateral. ",,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,500,CS.511-BT3,CINTA CARGA CAMIONES DE CLINKER.,BT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,500,CS.511-TP1,TRANSPORTADOR 1 EVACUACION SILO.,TP,,HECHO. Perforaciones caída guardera en parte exterior,,,,,,,,,,,,,,,,,,,,,,,,,,,20.0,PERFORACIONES:20.0
+,500,CS.511-TP2,TRANSPORTADOR 2 EVACUACION SILO.,TP,,Cambiar rodamiento de una rueda lado PY y faltan dos tornillos de un cangilón lado MT.,,,,,,,,,,,,,,,,,,,,,,,,,,,3.0,ALTA:3.0
+,500,CS.511-TP3,TRANSPORTADOR A TORRE TRANSFER. CARBO.,TP,,"- Recolocar capotas transportador
+- HECHO: Sustituir muelles tensores",,,,,,,,"- HECHO: Lo que estaba desalineado era el motor con el reductor. Acoplamiento FLEXACIER con los platos desalineados. Hay que alinear reductor/eje motriz
+- HECHO Los tacos del acoplamiento motor-reductor están en mal estado, hay que sustituir, en poco tiempo la vibracion ha aumentado bastante.",,,,"- HECHO: Sectores tensores con un desgaste de 8mm, por encima del límite (6mm). Reemplazar
+- HECHO: Necesario tensar la cadena (flecha de 21mm)
+- HECHO: Sectores motrices con un desgaste de 20mm, muy por encima del límite (6mm). Reemplazar
+",,,,,,,,,,,,,,,0.0,
+,500,CS.511-TP4,TRANSPORTADOR A TORRE TRANSFER AGUA.,TP,,,,"- HECHO: Reparar guarderas caída TP2 y TP1
+- HECHO: Seguir reparando ruedas y cangilones",,,,,,,,,,Cambiar sectores tensores por desgaste,,,,,,,,,,,,,,,0.0,
+,500,CS.511-TP5,TRANSP.PLACAS EVACUACION SILO Nº 2 CLINK,TP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,500,CS.511-TP6,TRANSP.PLACAS Nº 2 EVACU. SILO Nº 2 CLINK,TP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,500,CS.531-BT1,CINTA ALIMENTACIÓN MZ1,BT,,"HACER SEGUIMIENTO:  La banda tiene una marca por el lado AA, coincidiendo con las guarderas. Se ve la lona. Hay que revisar el desgaste de las placas que ajustan las guarderas con la cinta
+- HECHO: Hay que cambiar rodillos gripados y poner uno de retorno que falta
+- HECHO.  Empalme en mal estado. Cinta reemplazada en SEM 10/2022.",,,,,,,,,,,,,,,,,,,,,,,,,,,3.0,ALTA:3.0
+,500,CS.533-EC1,ELEVADOR DE CANGILONES DE CLINKER A MOLINO ESCORIA,EC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,500,CS.561-AP1,ACCIONAMIENTO PRINCIPAL MOLINO CEMENTO 1,AP,,"Hay que reemplazar la alargadera pequeña del MZ1 (entre motor y reductor) por desgaste excesivo de los dientes de los semi-acoplamientos
+HECHO: VALORAR REEMPLAZO MOTOR. SIGUE PERDIENDO ACEITE: Hay una fuga de aceite en el cojinete del lado opuesto del accionamiento principal del MZ1. Se está filtrando al compartimento de las escobillas. Hay que reparar la empaquetadura",,,,Desgaste acoplamiento alta y baja velocidad. Informe Maag. previsto para 2022/2023,,,,,,,,,,,,"- HECHO: MOTOR REEMPLAZADO. Problemas de desgaste en las escobillas. Todo apunta a que es causado por los anillos del rotor. Hay que mecanizarlos o cambiar el motor
+- HECHO: MOTOR REEMPLAZADO. El desequilibrio de inductancias es muy superior a los valores obtenidos en años anteriores (2,19% en 2022; 0,85% en 2021; 0,19% en 2020). Realizar seguimiento. Por otro lado, las bandas laterales en el espectro de frecuencia de las corrientes absorbidas por el motor están en nivel de alarma.",,,,,,,,,ES POSIBLE QUE HAYA QUE CAMBIAR EL MOTOR. PEDIR OFERTA.,TBD,4.0,BAJA:1.0;ALTA:3.0
+,500,CS.561-EC1,ELEVADOR CANGILONES MOLINO CEMENTO 1,EC,,,,"La cadena está desplazada hacia Playa, rozando las pletinas de la misma con los sectores motrices por el lado Montaña. También están rozando los cangilones con las roldanas, por el lado Playa. Hay que comprobar nivelación del eje motriz y corregir la alineación de la cadena.
+HECHO: Hay que reparar la cabeza motriz del elevador (cambiar sectores motrices, revisar moyús, cambiar rodamientos, revisar corona)
+HECHO: Reparar cangilones fisurados. Hay 4 críticos",,HECHO: Hacerle seguimiento al desgaste de los dientes del piñón. Aprovechar rutina trimestral del elevador para inspeccionarlos,,,,,,,,"HECHO: Sectores motrices cambiados. Revisar límites desgaste sectores motrices, cadena y casquillos. Los sectores motrices tienen 10mm de desgaste. Con toda probabilidad estarán fuera de límites",,,,,,,,,,,,,,,0.0,
+,500,CS.561-MB1,MOLINO DE BOLAS DE CEMENTO 1,MB,,"- Hay que comprobar la alineación entre el reductor y la alargadera grande, y entre esta y el Molino. Se han vuelto a partir tornillos de la brida pegada al reductor 
+- HECHO: Se han partido varios tornillos de la alargadera grande (acoplamiento reductor-molino, lado reductor). Se han sustituido los pines y se han puesto los tornillos fabricados por Cabezuelo
+- HECHO: Se han bajado los valores de consigna de funcionamiento del refrigerador (se deja como en el MZ2. Entre 41ºC y 45ºC). Temperatura cojinete de salida muy alta (en torno a 75 grados). En iguales condiciones el MZ2 está 10 grados por debajo.",,"- Revisar los mangones de entrada y salida. Tienen desgaste
+- Hay una placa de la primera rosca de la segunda cámara con una perforación. Hacer seguimiento
+- Cojinete salida con alta Tª (70-75 grados) Preveer reemplazo para 2025",,,,,,- Aumento de peakvue en punto C 561-MB1,,,,"HECHO en Noviembre 2023:
+- Recargar tornillos de las placas tipo B del tabique intermedio, lado 2ª cámara, del MZ1. Están desgatadas sólo por la parte del tornillo. Después de recargar los tornillos, se hará seguimiento para ver la evolución de las placas y evaular su posterior reemplazo.
+- El reemplazo de los siguientes anillos de la 2ª cámara: filas 1,2,3,4,5,6,7,8,9,31,32,33,34. Los tipos de placas se detallan en el PDF adjunto al aviso
+HECHO: Desgaste en placas A tabique central lado 1ª y 2ª cámara. Desgaste en placas B tabique de salida.",,,,,,,,,,,,,,,4.0,BAJA:1.0;ALTA:3.0
+,500,CS.561-SP1,SEPARADOR MOLINO DE CEMENTO 1,SP,,HECHO:  a la desalineación entre el motor y el reductor. Se ha comprobado con las rutinas que existe desalineación angular y paralela,,"- Sistema Engrase Rodamientos 561-EL3:  Ajuste ciclos engrase incorrecto, 10g/8h = 30g/24h recomendado vs 240g /24h actual: sobre-lubricación Rodamiento. Señal Tª Rodamiento Inferior fuera de Servicio desde 2018. Serv.Eléct sustituye sonda el X/12/NOV/24. Ajustar Tiempos Engrase para cantidades adecuadas. Cambio Grasa Rodamiento Inf? 8000h recomendación fabricante.
+
+- Comprobar las holguras del eje del separador. El rodamiento inferior se ve OK. También se ha comprobado la tuerca y contratuerca de abajo. Están apretadas. Comprobar la holgura del rodamiento superior
+- Álabes del separador doblados. Hacer seguimiento
+- HECHO: Densit de la parte inferior del Separador con mucho desgaste. Hay que reparar",,,,,,"COMPROBAR si las vibraciones en el punto BH se deben a flojedad estructural o a desequilibrio del rotor del motor
+HACER SEGUIMIENTO al aumento del peakvue en el punto C del reductor
+HECHO: Se cambia el reductor: Aumento significativo del valor global, se identifica pico a 1x de la velocidad de giro del motor en el Punto BH. Puede deberse a flojedad estructural. Se aprecia a simple vista desplazamiento de la viga del lado CS",,,,,,,,En octubre de 2020 se reemplazó el motor por uno de más potencia (250kW),,,,,,,,,En octubre de 2020 se reemplazó el motor por uno de más potencia (250kW),,0.0,
+,500,CS.561-VE3,VENTILADOR ZUB SEPARADOR CEMENTO,VE,,,,- Densit de la parte inferior del Separador con mucho desgaste. Hay que reparar,,,,,,HECHO. Se ha limpiado el rodete y han bajado bastante las vibraciones,,,,Evaluar desgaste del rodete,,,,Las bandas laterales en el espectro de frecuencia de las corrientes absorbidas por el motor están en nivel de alarma. Hacer seguimiento,,,,,,,,,,,1.0,BAJA:1.0
+,500,CS.561-VE5,VENTILADOR EXHAUSTOR FILTRO MANGAS MZ,VE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,500,CS.532-BT1,CINTA ALIMENTACIÓN MZ2,BT,,"Cambiar cuatro rodillos de la cuna lisos 133x315
+Cambiar dos rodillos amortiguadores de la cuna 159x315
+Falta un rodillo centrador lado AA.
+Artesa lado CS en mal estado. 
+Estaciones guías gripadas.
+HECHO: REEMPLAZAR CINTA. Se ha rajado longitudinalmente por un lateral. El material fraguado en las guarderas está rozando con la cinta. Le ha hecho una marcha en un lateral. Se llega a ver la lona",,,,,,,,,,,,,,,,,,,,,,,,,,,3.0,ALTA:3.0
+,500,CS.562-AP1,ACCIONAMIENTO PRINCIPAL MOLINO CEMENTO 2,AP,,,,,,,,,,,,,,,,,,Las bandas laterales en el espectro de frecuencia de las corrientes absorbidas por el motor están en nivel de alarma. Hacer seguimiento,,,,,,,,,,,0.0,
+,500,CS.562-EC1,ELEVADOR CANGILONES MOLINO CEMENTO 2,EC,,,,HECHO: Hemos tenido 4 paros del MZ2 por desvío. Se revisa en marcha y no se ve nada raro. Se revisa la salida del Molino. Estaba una clapeta gripada,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,500,CS.562-MB1,MOLINO DE BOLAS DE CEMENTO 2,MB,,"HECHO. HACER SEGUIMIENTO A LA PÉRDIDA DE ACEITE: Pérdida de aceite en las bridas de entrada del reductor. Se van a apretar los tornillos, para ver si se reduce la pérdida de aceite. Hay que revisar también la presión de trabajo de las bombas",,"- Inf. Análisis Aceite 27/SEP/24 - Contenido Alto en Plomo. Planificar Medición Desgaste Teja??
+
+- Revisar los mangones de entrada y salida. Tienen desgaste
+HECHO: Hay una placa C del testero de entrada con mucho desgaste. Reemplazar",,,,"- Los aceites del cojinete de salida y del reductor tienen la acidez alta. Valorar el reemplazo
+HECHO: Se cambia el aceite y los filtros. El último anáisis de aceite del cojinete de entrada sigue mostrando un alto contenido en Plomo. Se hace aviso para reemplazar el aceite y hacer comprobaciones en el cojinete",,,,,,"- Hay que cambiar en 2024 por desgaste las placas B del tabique intermedio, lado 1ª cámara (no se pudieron cambiar en paro 23SDC2B1) y dos filas de anillos en 2ª cámara (13 y 16)
+- Hay que cambiar en 2025 el blindaje x-lift de la 1º cámara y las placas A del tabique de salida
+HECHO: Hay que reparar o reemplazar la placa doble C del testero de entrada
+(por la que pasa la tubería del agua). Le falta un trozo
+HECHO: Hay que cambiar  por desgaste todas  las placas D (posición 15), tabique
+intermedio, lado 2ª cámara. 
+- HECHO: Desgaste en las placas B del testero de entrada y placas A del tabique central, lado 1ª cámara. Planificar pedido
+- HECHO: Palas del tabique intermedio con desgaste",,,,,,HECHO: Se ha detectado una fisura de 850mm del testero de entrada. Se hace aviso para planificar reparación urgente,,,,,,,,,3.0,ALTA:3.0
+,500,CS.562-SP1,SEPARADOR MOLINO DE CEMENTO 2,SP,,,,"- Sistema Engrase Rodamientos 562-EL3:  Ajuste ciclos engrase incorrecto, 10g/8h = 30g/24h recomendado vs 240g /24h actual: sobre-lubricación Rodamiento.  Ajustar Tiempos Engrase para cantidades adecuadas. Cambio Grasa Rodamiento Inf? 8000h recomendación fabricante. + Revisar Tuberías llegada a Rodamientos.
+
+- HECHO: Los tacos del acoplamiento motor/reductor del separador están desgastados y tienen holgura. Hay que cambiarlos
+- HECHO: El anillo soporte rótulas del ventilador Zub del MZ2 tiene una fisura. Hay que soldar una cartela
+- HECHO: El compensador del ventilador tiene varios agujeros",,,,"Se cambia el aceite del reductor de ST 220 a ST 320 con el fin de controlar la Tª interna del mismo, que está en trono a 80 grados, estando en el MZ1 a 50 grados. Hay que hacer seguimiento",,,,,,,,,,,,,,,,,,,,,0.0,
+,500,CS.562-VE3,VENTILADOR ZUB SEPARADOR CEMENTO 2,VE,,HECHO: Hay que cambiar las poleas del motor y del ventilador. Tienen los canales demasiado gastados,,HECHO: Necesario recargar álabes. Reparar perforación carcasa,,,,,,HECHO: Vibraciones altas y espectro de desequilibrio del rodete. Se va a rasquetear y limpiar en SEM 07/2022,,,,,,,,"El desequilibrio resistivo es muy superior al valor obtenido en el año anterior (2,9% en 2022; 0,06% en 2021). Realizar seguimiento, puede ser indicativo de malas soldaduras o cableados flojos u oxidados. Se comprueba en el ensayo dinámico que el desequilibrio de corrientes está OK. Por otro lado, las bandas laterales en el espectro de frecuencia de las corrientes absorbidas por el motor están en nivel de alarma. Hacer seguimiento",,,,,,,,,,,3.0,ALTA:3.0
+,500,CS.562-VE5,VENTILADOR EXHAUSTOR FILTRO MANGAS MZ 2,VE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,500,CS.591-BT1,CINTA PRODUCTO TERMINADO LADO CANTERA,BT,,"Sustituir la banda. Tiene una marca longitudinal, que ha desgastado la goma y se ve la lona. También hay que engomar tambor motriz y tensor.
+Reparar tambor limpiador.
+HECHO. Se ven ya las lonas en los laterales de la cinta, empezando a tirar polvo por ahí. Planificar reemplazo de la cinta para 2022",,,,,,,,,,,,,,,,,,,,,,,,,Corte longitudinal junto empalme. Recuperar contrapesa y eliminar 3 metros dañados.,Reemplazo en 2022,0.0,
+,500,CS.591-BT2,CINTA PRODUCTO TERMINADO LADO PUERTO,BT,,HECHO (Hacer seguimiento) Se ha enganchado el empalme de la banda y se ha roto un trozo importante. Hay que pedir unos 50m de banda urgentemente,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,500,CS.592-EC1,ELEVADOR CANGILONES LADO CANTERA.,EC,,Hay que reemplazar las juntas G de los rodamientos del tambor tensor. Están perdiendo aceite,,"- Pérdida de aceite eje de entrada. Revisar con engrasadores la reposición de aceite para evaluar la necesidad de cambio del retén
+- HECHO: Desgaste sectores tambor motriz elevador. Reemplazar",,,,,,Ruido en tren salida reductor. Peak View alto estable.,,,,,,,,,,,,,,,,,,,0.0,
+,500,CS.592-EC2,ELEVADOR CANGILONES LADO PLAYA,EC,,,,"- Perdida de aceite eje de entrada. Revisar con engrasadores la reposición de aceite para evaluar la necesidad de cambio del retén
+- HECHO: Cajera y rail tambor tensor con desgaste ",,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,600,CS.611-EC1,ELEVADOR TRASVASE A SILOS METÁLICOS,EC,,Se ha visto que los rodamientos del tambor tensor estaban sin aceite. Se les ha hecho el nivel. Hay que revisar el nivel en unos días a ver si están perdiendo por la junta G,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,600,CS.641-BT1,BANDA TRANSPORTADORA PUERTO Nº 1,BT,,"Retén salida roto reductor cinta 641-BT1. Hay que reemplazarlo
+HECHO: Reparar fisuras en tambor de cola y tambor motriz. 2 Rodillos retorno y 2 de la cuna en mal estado. Cambiar",,,,,,,,,,,,,,Banda reemplazada en parada diciembre 2021,,,,,,,,,,,,,0.0,
+,600,CS.641-BT2,BANDA TRANSP. ENLACE MUELLE NORTE Nº 1,BT,,,,,,,,,,,,,,,,70-75 Shore,,,,,,,,,,,,,0.0,
+,600,CS.641-BT3,BANDA TRANSP. DESCARGA MUELLE NORTE Nº 2,BT,,,,,,,,,,,,,,,,65 Shore,,,,,,,,,,,,,0.0,
+,600,CS.641-BT4,BANDA TRANSPORTADORA PUERTO Nº 2,BT,,"HECHO: Hay 4 rodillos rotos de 530 mm en transporte 2 de puerto. Hay que reemplazarlos
+HECHO: Hay dos rodillos rotos guias de 800mm en la cabeza del transporte 2 de puerto hay que cambiarlos.",,,,,,,,,,,,,,65 Shore,,,,,,,,,,,,,0.0,
+,600,CS.641-BT6,CINTA ENLACE MUELLE ESTE,BT,,HECHO: Hay rodillos rotos de la cinta de enlace del cargador movil del muelle este. Hay que reemplazarlos,,,,,,,,,,,,,,65 Shore,,,,,,,,,,,,,0.0,
+,600,CS.641-BT7,BANDA TRANSP. DE EVACUACION MUELLE ESTE.,BT,,"- Superficie de la banda presenta grietas. Buscar tratamiento líquido para rellenarlas. Debe aguantar Temperatura.
+- Hacer seguimiento a pérdida aceite fluidrive
+HECHO:  Hay un rodillo roto en la cinta de evacuación del cargador movil del muelle este de 530mm. Hay que reemplazarlo
+HECHO:Lona superior cuarteada, cubre-empalmes dañados. Reemplazar banda en sem 39. ",,,,,,,,Ver en detalle de vibraciones,,,,,,85shore,,,,,,,,,,,,,0.0,
+,600,CS.641-BT8,CINTA DESDE MUELLE NORTE A TORRE ANGULO,BT,,"- HECHO: Reparar fisura en tambor motriz y engomar el tambor
+- HECHO: Reparar empalme
+- HECHO: Reparar fisuras tambor motriz y engomar",,,,,,,,Ver en detalle de vibraciones,,,,,,75 Shore,,,,,,,,,,,,,0.0,
+,600,CS.641-CG1,CARGADOR TELESCOPICO MUELLE NORTE,CG,,,,"Deformaciones celosía, revisar espesores. Balancín en mal estado.",,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,600,CS.641-CG2,CARGADOR TELESCOPICO MUELLE ESTE,CG,,,,HECHO. Tirante fisurado en cargador M. Este. En la celosía que cruza a la cinta de enlace,,,,,,,,,,,,,,,,,,,,,,,Ruido en piñón de accionamiento ha desaparecido. Verificar.,,0.0,
+,600,CS.641-EC1,ELEVADOR CARGA CUBAS SILO 1 Y 2 PUERTO,EC,,,,"- Reparar los 11 cangilones que faltan (taladrando nuevos agujeros)
+- Reparar el detector de rotura de cangilón
+- Reparar las bisagras de las puertas",,,,,,,,,,,,,,,,,,,,,,,,,3.0,ALTA:3.0
+,600,CS.641-EC2,ELEVADOR CARGA CUBAS SILO 3 PUERTO,EC,,,,"- Falta 1 cangilón
+- Faltan manetas de cierre de las compuertas superior e inferior",,,,,,,,,,,,,,,,,,,,,,,,,3.0,ALTA:3.0
+,L00,CS.L11-AM1,SAMSON PARQUE DE CARBÓN,AM,,,,"- El 100% de las ruedas tienen los rodamientos mal. Hay que hacer la ingeniería inversa para acometer el reemplazo de la cadena
+- Eje tambor tensor doblado. Habría que sacar el eje para determinar si está doblado, partido, etc
+- Eje tambor motriz también doblado. Está deslizando el brazo de reacción
+- Sectores tambor motriz con desgaste excesivo por una cara. Reemplazar",,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,L00,CS.L21-RC1,RECUPERADOR PARQUE DE CARBON.,RC,,,,"HECHO: Sectores motrices y tensores desgastados por encima del límite. Se le va a dar la vuelta a los sectores motrices, y se van a pedir nuevos los sectores tensores",,,,,,,,,,Crear rutina de desgaste según manual de AUMUND,,,,,,,,,,,,,,,0.0,
+,L00,CS.L21-TP1,TRANSPORTADOR PLACAS AUXILIAR CARBÓN,TP,,,,"- Guarderas en mal estado
+- Desgaste en las bandejas (hacer seguimiento)",,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,L00,CS.L31-TK1,REDLER ALIMENTACION M. CARBON.,TK,,,,"- Insp. Fondo Redler: 13/NOV/24 - Esp. Residual Chapas Fondo: 2mm, Desgaste Guías Rodadura y Pletina Cadena. 
+
+HECHO: La esclusa de alimentación del Molino de Carbón tiene perforaciones y la camisa muy desgastada. La separación entre las cuchillas y la camisa es de 20mm. En las tapas laterales, la separación también es de 20mm. Aunque se ajusten las cuchillas, al estar la camisa tan desgastada, seguirían habiendo mal sellado",,,,,,,,,,,,,,,,,,,,,,,,,20.0,PERFORACIONES:20.0
+,L00,CS.L61-AP1,ACCIONAMIENTO PRINCIPAL MOLINO CARBON.,AP,,,,,,,,,,,,,,,,,,"La curva del PI (0,887 en 2022; 9,846 en 2021) presenta mucho rizado, parece que el aislamiento está muy contaminado. HECHO: Hacer aviso y programar una medida de aislamiento con nuestro PdMA. Se repiten las medidas de aislamiento y PI, dando resultados satisfactorios",,,,,,,,,,KSD Junio 2021,0.0,
+,L00,CS.L61-ML1,MOLINO VERTICAL DE CARBON,MR,,HECHO: Se ha partido el brazo del balancín lado AA del MK. Hay que reemplazarlo,,"RUTINA INSP - SEM 42: Eje Rotula superior roto Lado CS y Rótula desgastada parte superior Lado MT.
+HECHO: 1 Pala estática con mucho desgaste
+HECHO: Tubo interior con bajo espesor y perforaciones",,,,,,,,,,,,,,,,"Hay fisuras en algunos eslabones de las articulaciones. Hay que hacerle seguimiento
+- Articulación lado AA, parte superior",,,,,,,,,20.0,PERFORACIONES:20.0
+,L00,CS.L61-SP1,SEPARADOR MOLINO DE CARBÓN,SP,,HECHO. Perforación en compensador y conducto de salida. Se va a reparar en la parada de diciembre 2021,,,,,,,,"Se han cambiado las poleas y las correas, y se han alineado. Salieron vibraciones altas en el punto B del motor, con espectro claro de fallo de rodamientos. Se cambió el rodamiento del lado accionamiento. Hacer seguimiento a las vibraciones",,,,,,,,,,,,,,,,,,,3.0,ALTA:3.0
+,L00,CS.L61-VE1,VENTILADOR EXHAUSTOR MOLINO DE CARBÓN,VE,,,,,,,,,,"HECHO. Espectro de desalineación en el acoplamiento del motor con el ventilador. Es un acoplamiento FLEXACIER. Hay que abrirlo, revisarlo y comprobar alineación. Se comprueba alineación y está bien. Se desmontan los muelles, se limpian, se cambia la grasa y se vuelven a instalar. La vobración en el punto CV baja de 5mm/s a 0,5mm/s. Se ha visto que los muelles no estaban instalados de forma cruzada",,,,,,,,,,,,,,,,,,,1.0,BAJA:1.0
+,T00,CS.T21-AM1,SAMSON ESCORIA,AM,,Hay que reparar las guarderas. Se está saliendo el material,,"Desgaste elevado en la cadena del SAMSON de la Escoria (holgura de 3-4mm entre el bulón y el casquillo, cuando debería ser inferior a 1mm). Los sectores motrices también tienen mucho desgaste. Hay que preparar inversión de reemplazo de la cadena, costillas, sectores y banda (también tiene desgaste en la zona de roce con las guarderas)",,,,,,,,,,"Desgaste elevado en la cadena del SAMSON de la Escoria (holgura de 3-4mm entre el bulón y el casquillo, cuando debería ser inferior a 1mm). Los sectores motrices también tienen mucho desgaste. Hay que preparar inversión de reemplazo de la cadena, costillas, sectores y banda (también tiene desgaste en la zona de roce con las guarderas)",,,,,,,,,,,,,,,0.0,
+,T00,CS.T51-QE1,QUEMADOR MOLINO DE ESCORIA,QU,,,,"Hay que hacer varias reparaciones:
+- Reparación de refractario y chapas del hogar (hay chapas desprendidas donde se ve lana de roca)
+- Reemplazo de lamas fijas del Quemador",,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,T00,CS.T61-AP1,ACCTO. PPAL MOLINO ESCORIA,AP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,T00,CS.T61-FT1,FILTRO PRINCIPAL MOLINO DE ESCORIA,FT,,,,Se ha analizado en laboratorio el estado de las mangas. Están empezando a aparecer episodios de aumento de emisiones debido al deterioro de las mangas. Comenzar pedido de las mismas,,,,,,,,,,,,,,,,,,,,,,,,Reemplazo 2022,0.0,
+,T00,CS.T61-EC1,ELEVADOR DE CANGILONES RECIR MOL ESCORIA,EC,,,,"- Desgaste excesivo en casquillos de la cadena y en polea motriz. Hay que reemplazar la polea motriz (o mecanizarla) para evitar que se siga acentuando el desgaste de la cadena
+- Holgura excesiva en guías tambor tensor. Hay que corregirla
+HECHO. Se ha comprobado la alineación y está OK. Se han tomado las medidas que comentó STHIM (tres pasos de cadena). Las medidas son las mismas que las de origen. Es decir, la cadena está OK",,,,,,,,,,- Desgaste excesivo en casquillos de la cadena y en polea motriz. Hay que reemplazar la polea motriz para evitar que se siga acentuando el desgaste de la cadena,,,,,,,,,,,,,Comprobar alineacion. Desgaste en cadena.,TBD,0.0,
+,T00,CS.T61-MR1,MOLINO DE ESCORIA,MR,,"- En el informe de DALOG se ha visto aumento de la envolvente en el rodamiento B del eje de entrada. Se ha detectado pitting y óxido en los rodillos del rodamiento. Hay que cambiar los filtros de silica gel (se cambian, y un mes después se vuleven a saturar. Ver si es necesario otro tipo de filtros) y planificar el reemplazo de los rodamientos 
+- HECHO El tornillo y la tapa que sujeta el cilindro con la muñequiila del rodillo lado playa estan caidas en en el sulelo, imprtante hacer antes de arrancar",,"- Reparar soporte inferior corona de gases
+- Modificar guardapolvos corona de gases
+- Reparar blindaje rodillos
+Medir caudal de aceite que sale de cada pistón hacia los patines
+HECHO: Revisar los patines PD,PE y PF. Tienen la presión muy baja. Se comprueban todos los patines. No tienen fugas, pero la presión en el patin PF es muy baja, y tiene una holgura de 0,1mm. Los otros patines tienen una holgura infgerior a 0,03mm.
+HECHO: Además, la temperatura en el patín PG ha llegado a valores de alarma (70ºC). Se comprueba la temperatura y era tema de la sonda o de la pastilla. Al desconectar y conectar se queda midiendo bien.",,,,"Sacar una muestra de aceite y enviar a BV para medir el contaje ISO de partículas, además de la contaminación de metales y el PQ Index",,,,,,"- Reparar anillo tapa corona de gases y blindajes escudos rodillos esclavos
+- Desconchones en rodillo lado Playa. Hay que recargar con material base, y después duro
+HECHO: Desgaste en rodillos maestros y pista. necesario recargue
+HECHO: Se reemplaza el rodillo esclavo lado MT en febrero 2021 y se recargan rodillos maestros en maro 2021",,,,,,,,,,,,,VER MANTENIMIENTO MAYOR DEL REDUCTOR (INFORME RENK),,1.0,BAJA:1.0
+,T00,CS.T61-SP1,SEPARADOR MOLINO DE ESCORIA,SP,,,,"- La mitad inferior de las palas dinámicas está en mal estado. Hay que reemplazarlas
+- HECHO: Falta 1 pala de las dinámicas, y hay 10 de ellas muy dobladas. Hay que reemplazarlas o enderezarlas y volverlas a instalar. El peligro de que estén muy dobladas es que se salen de su alojamiento",,,,,,,,,,,,,,,,,,,,,,,Reemplazo reductor separador ME,2021-02-28 00:00:00,3.0,ALTA:3.0
+,T00,CS.T61-VE1,VENTILADOR EXHAUSTOR MOLINO DE ESCORIA,VE,,,,,,,,,,,,,,Tacos de acoplamiento en mal estado. Observar evolución de la holgura mediante vibraciones y VOSOAs. Por ahora el espectro no detecta una holgura excesiva,,,,,,,,,,,,,,,2.0,MEDIA:2.0
+,T00,CS.T61-VR1,VÁLVULA ROTATORIA MOLINO ESCORIA (ESCORIA),VR,,"HECHO: Pletinas desgaste muy deterioradas
+Camisa con desgaste
+Hay que reemplazar el rotor y la camisa",,,,,,,,,,,,,,,,,,,,,,,,,Reparar la esclusa o traer de Tarragona,,0.0,
+,T00,CS.T61-VR4,VÁLVULA ROTATORIA MOLINO ESCORIA (CLINKER),VR,,,,,,,,,,,,,,,,,,,,,,,,,,,Esclusa sustituida en febrero de 2021,,0.0,
+,T00,CS.T91-EC1,ELEVADOR DE CANGILONES CEMENTO ESCORIA,EC,,,,,,,,,,,,,,,,Dureza de la banda ,,,,,,,,,,,,,0.0,
+,T00,CS.T91-EC2,ELEVADOR DE CANGILONES 2 CEMENTO ESCORIA,EC,,HACER SEGUIMIENTO: Pérdida de aceite por el eje de entrada del reductor. Habrá que cambiar el retén,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,V00,CS.V13-AM1,SAMSON CFFS,AM,,HECHO: Parchear un agujero de unos 20cm en la banda,,Hay que planificar el reemplazo de la banda por desgaste de la misma. Se ven las lonas en varios tramos de la banda,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,V00,CS.V13-TK1,TRANSPORTADOR DE CADENA.,TK,,"El patín está desnivelado hacia el lado montaña, provocando que la cadena roce con la pared del cajón (lado MT). Es necesario reforzar las pletinas de soporte del patín para nivelarlo",,"- Hay 80 palas dobladas. Es importante enderezarlas para que no causen una avería grande
+- Hacer seguimiento al desgaste del sector motriz",,,,,,,,,,Se reemplaza la cadena en parada marzo 2021,,,,,,,,,,,,,Se reemplaza la cadena en parada marzo 2021,,0.0,
+,V00,CS.V13-TK2,TRANSPORTADOR DE CADENA A SILO Nº 2.,TK,,,,HECHO:  1 pala doblada,,,,,,,,,,HECHO: Cambiar cadena en parada 22SDK1B1. Bulones y alojamiento fuera límite desgaste,,,,,,,,,,,,,Reemplazo sectores motrices,,0.0,
+,V00,CS.V91-BT1,CINTA LARGA SÓLIDOS GRUESOS,BT,,"- El eje del tambor motriz está deformado. Hay que cambiar el tambor y preveer también repuesto del motoreductor
+- HECHO: Se han despegado 15m de la cinta. Hay que hacerle seguimiento y valorar cuándo se reemplaza",,- HA DEJADO DE SALTAR DE TÉRMICO: Problemas en la banda. Salta de térmico constantemente debido a que el motor no es capaz de tirar de la banda,,,,,,,,,,,,,,,,,,,,,,,,,3.0,ALTA:3.0
+,V00,CS.V91-BT3,CINTA CORTA SÓLIDOS GRUESOS,BT,,"HECHO: El engomado del tambor de cola está despegado. Hay que pegarlo al tambor adecuadamente
+HECHO (se cambia la banda):El empalme está en mal estado, hay que repararlo. Además, la cinta tiene demasiado desgaste. Valorar reemplazo",,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,V00,CS.V91-TK1,REDLER ALIMENTACION CSSG RAMAL CS,TK,,Las guías de la cadena tienen bastante desgaste donde hace la curva. Hay que reemplazarlas,,Se acorta la cadena en la semana 43. Continuar con el seguimiento,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,V00,CS.V91-TK2,REDLER ALIMENTACION CSSG RAMAL AA,TK,,"Falta una pala, tornilleria a cinco palas y varias flojas.
+HECHO: Hay que reemplazar casi todas las palas de teflón del redler. Hay varias partidas, dobladas, o con tornillos en mal estado. El problema que tienen es que para qutar los tornillos hay que vaciar el agujero, ya que van mecanizados. Al hacer esto, la pala queda inservible. De ahí que hay que cambiar la mayoría",,"El redler de alimentación V91-TK2 tiene los sectores motrices y tensores desgastados (5mm sectores motrices y 6mm sectores tensores). Además, se perciben a simple vista los dientes redondeados. La cadena se monta encima de los sectores y por eso está partiendo los tornillos de las placas. Hay que cambiar ambos sectores. Se adjuntan fotos",,,,,,,,,,,,,,,,,,,,,,,,,3.0,ALTA:3.0
+,V00,CS.V91-GR1,GRAPPIN SÓLIDOS GRUESOS,GR,,Hay que reemplazar las argollas y los grilletes del GRAPPIN. Tienen mucho desgaste. Se han recargado provisionalmente,,"Hay que reparar fisuras de la garra del GRAPPIN. Se va a realizar una reparación provisional, pero más adelante, en un paro, hay que sacar la garra, llevarla al taller, hacerle LP, repararla bien, y como mejora, acartelarla",,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,V00,CS.V91-TL1,TOLVA NEUMÁTICOS (EXTRACTOR DE CADENA),TP,,"Hacer seguimiento al desgaste de los casquillos
+HECHO: Se ha caído una placa lateral. Hay que reponerla. Además, hay que limpiar la cadena a fondo. Está gripada del material y se están desgastado los casquillos.
+HECHO: - Se ha caído una placa del alimentador. Hay que reponerla
+HECHO: Además, la cadena tiene demasiado alargamiento. Hay que acortarla",,,,,,,,,,,,En diciembre se desmontó el transportador por completo y se limpió la cadena. Quedó bien. Hay que hacerle seguimiento,,,,,,,,,,,,,,,0.0,
+,V00,CS.V91-VR1,ESCLUSA ROTATIVA ALIMENTACION CSSG CS,VR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,V00,CS.V91-VR2,ESCLUSA ROTATIVA ALIMENTACION CSSG AA,VR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,V00,CS.V93-TK1,TRANSPORTADOR DE CADENA.,TK,,,,"HECHO: El reductor pierde por el eje de entrada y de salida. Hay que cambiar el retén y hacer seguimiento al nivel de aceite. El nivel de aceite estaba mal. Debía estar más alto dada la posición vertical del reductor. Se llena hasta el punto adecuado
+HECHO: Faltan 6 palas, y hay 21 dobladas",,,,,,,,,,"HECHO: Los bulones han llegado a 22mm de diámetro (límite de pedido). El desgaste se está acelerando. Hay que cambiar cadena, sectores y patines",,,,,,,,,,,,,,,3.0,ALTA:3.0
+,V00,CS.V93-TK2,TRANSPOR. CADENA EVACUACION SILO Nº 2,TK,,Hay que acortar la cadena,,HECHO: 13 palas dobladas,,,,,,,,,,"HECHO: Bulones desgastados (20mm de diámetro sobre 25mm de D.inicial). Cambiar la cadena, sectores y patines en parada 23SDK1B1",,,,,,,,,,,,,,,0.0,
+,V00,CS.V96-TK1,TRANSPORTADOR DE CADENA.,TK,,,,"HECHO: Se van a reemplazar los patines de teflón de este redler y de los otros dos por unos metálicos. Los patines de teflón están teniendo un desgaste excesivo, principalmente en el V96-TK2",,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,V00,CS.V96-TK2,TRANSPORTADOR DE CADENA.,TK,,,,"HECHO: Se van a reemplazar los patines de teflón de este redler y de los otros dos por unos metálicos. Los patines de teflón están teniendo un desgaste excesivo, principalmente en el V96-TK2",,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,V00,CS.V96-TK3,TRANSPORTADOR DE CADENA.,TK,,,,"HECHO: Se van a reemplazar los patines de teflón de este redler y de los otros dos por unos metálicos. Los patines de teflón están teniendo un desgaste excesivo, principalmente en el V96-TK2",,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,300,CS.331-TP1,ALIMENTADOR DE PLACAS PARA MEZCLA,TP,,,,,,,,,,,,,,Las placas del transportador presentan zonas de mucho desgaste. Su espesor original es de 10 mm y hay zonas que tienen espesores de 3mm,,,,,,,,,,,,,,,0.0,
+,300,CS.331-TP2,ALIMENTADOR DE PLACAS PARA CALIZA,TP,,,,,,,,,,,,,,Se debe planificar el reemplazo de cadenas y ruedas ,,,,,,,,,,,,,,,0.0,
+,300,CS.331-TP3,TRANSPORTADOR PLACAS CENIZA CRUDO.,TP,,,,,,,,,,,,,,Se debe planificar el reemplazo de cadenas y ruedas ,,,,,,,,,,,,,,,0.0,
+,300,CS.331-TP4,TRANSPORTADOR PLACAS ARENA DE CRUDO.,TP,,,,,,,,,,,,,,Se debe planificar el reemplazo de cadenas y ruedas ,,,,,,,,,,,,,,,0.0,
+,400,CS.461-HR1,HORNO ROTATIVO DE SATELITES. CORONA/PIÑON,HR,,Se escucha ruido en ciertos momentos del engrane del piñon/corona. Se mide run out y los valores han aumentado considerablemente en comparacion con las ultimas mediciones de Nov-24. se verifican temperaturas registradas durante los VOSOAS de los flancos de diente y las mediciones no tienen variaciones fuera de lo normal (max 3ºC). Se mete en listado de paro imprevisto revisar los tornillos de los empalmes de la corona. Se cambia un tronillo en uno de los empalmes del lado MT.SE MANTIENE EN SEGUIMIENTO,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,400,CS.461-HR1,"HORNO ROTATIVO DE SATELITES. APOYO 3 COJINETE 9, CS-MT",HR,,"EN SEGUIMIENTO. Se coloca radiador mas grande para intentar bajar la temperatura del cojinete, enfirando mayor cantidad de aceite y evitando que la recirculacion de la bomba genere batido del aceite y por ende espuma. En la parada existe la posibilidad de sacar la teja para abrir un poco canal de aceite.",,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,BAJA:1.0
+,400,CS.461-HR1,"HORNO ROTATIVO DE SATELITES. APOYO 3 COJINETE 10, CS-PY",HR,,EN SEGUIMIENTO. Se colocan 70L de aceite ISO 1000 para compensar la perdida de viscosidad por aumento de temperatura y adicionalmente pensando en posibles daños en la teja que eviten que el aceite cumpla su funcion. Existe la posibilidad de sacar la teja en la parada para abrir canal de aceite.,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,400,CS.461-HR1,HORNO ROTATIVO DE SATELITES,HR,,Seguimiento de movimiento relativo en aro 3. Valores por encima de 30 desde marzo de 2025. Se debe calzar el aro en el paro de horno KSD2026,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,T00,T61-BT1,,BT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,T00,T91-EC1,,BT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,
+,T00,T91-EC2,,BT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0,

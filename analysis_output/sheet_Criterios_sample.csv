@@ -1,0 +1,21 @@
+Unnamed: 0,1,Soporte en cono (embutido),0,Unnamed: 4,1.1,Sin hallazgos,0.1,_computed_score,_computed_matches
+,2,Cono con estructura portante,10,,2,Perdidas de espesor en fuste,10,20.0,CONO CON ESTRUCTURA PORTANTE:10.0;PERDIDAS DE ESPESOR EN FUSTE:10.0
+,3,Sin anillo compresión,20,,3,Perdidas de espesor en cono ,10,30.0,SIN ANILLO COMPRESIÓN:20.0;PERDIDAS DE ESPESOR EN CONO:10.0
+,4,Cono colgado del fuste,20,,4,Perdidas de espesor en unión cono-fuste,20,40.0,CONO COLGADO DEL FUSTE:20.0;PERDIDAS DE ESPESOR EN UNIÓN CONO-FUSTE:20.0
+,,,,,5,Perdidas de espesor en techo,20,20.0,PERDIDAS DE ESPESOR EN TECHO:20.0
+,,,,,6,Abolladuras en unión cono fuste,20,20.0,ABOLLADURAS EN UNIÓN CONO FUSTE:20.0
+,,,,,7,Fisuras fuste o cono,20,20.0,FISURAS FUSTE O CONO:20.0
+,VOSOA (inspección interna),Patologías ,Factor,,8,Fisuras en unión cono fuste,30,30.0,FISURAS EN UNIÓN CONO FUSTE:30.0
+,1,Sin hallazgos,0,,9,Fisuras en estructura soporte / tornillos rotos,30,30.0,SIN HALLAZGOS:0.0;FISURAS EN ESTRUCTURA SOPORTE / TORNILLOS ROTOS:30.0
+,2,Oxidación general,10,,10,Abolladuras en fuste,10,20.0,OXIDACIÓN GENERAL:10.0;ABOLLADURAS EN FUSTE:10.0
+,3,Oxidación fuste,10,,,,,10.0,OXIDACIÓN FUSTE:10.0
+,4,Oxidación cono ,10,,Tiempo sin revisar,,Factor,10.0,OXIDACIÓN CONO:10.0
+,5,Existencia de parches ,20,,1,< 3 años,0,20.0,EXISTENCIA DE PARCHES:20.0;< 3 AÑOS:0.0
+,6,Fisuras / tornillos,20,,2,de 3 a 5 años ,10,30.0,FISURAS / TORNILLOS:20.0;DE 3 A 5 AÑOS:10.0
+,7,Perforaciones ,20,,3,de 5 a 7 años,20,40.0,PERFORACIONES:20.0;DE 5 A 7 AÑOS:20.0
+,8,Material en el techo,20,,4,Más de 7 años,30,50.0,MATERIAL EN EL TECHO:20.0;MÁS DE 7 AÑOS:30.0
+,9,Deformaciones estruct,30,,,,,30.0,DEFORMACIONES ESTRUCT:30.0
+,,,,,,,,0.0,
+,,,,,,,,0.0,
+,Exposición,En función utilización y personas,Factor,,Prioridad,,,0.0,
+,1,Alta exposición,30,,1,Baja,Entre 0 y 70,34.0,ALTA EXPOSICIÓN:30.0;BAJA:1.0;ALTA:3.0
